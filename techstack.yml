@@ -1,0 +1,3387 @@
+repo_name: naywintx/joplin
+report_id: cc4dd2a125044ef933354bfa927733b5
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-21T02:39:53+00:00'
+requested_by: personalizedrefrigerator
+provider: github
+branch: dev
+detected_tools_count: 234
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-mobile/package.json
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2017-05-06 14:37:28.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: Smalltalk
+  description: An object-oriented, dynamically typed reflective programming language
+  website_url: http://en.wikipedia.org/wiki/Smalltalk
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2624/no-img-open-source.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-desktop/package.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-01-11 14:00:36.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/fork-uslug/package.json
+  detection_source: packages/fork-uslug/package.json
+  last_updated_by: Laurent
+  last_updated_on: 2021-12-20 15:08:43.000000000 Z
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-mobile/android/app/build.gradle
+  detection_source: packages/app-mobile/android/app/build.gradle
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-06-10 16:02:58.000000000 Z
+- name: Bulma
+  description: Free, open source, &amp; modern CSS framework based on Flexbox
+  website_url: http://bulma.io/
+  version: 0.9.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/5204/bulma-logo.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-05 17:15:12.000000000 Z
+- name: Electron
+  description: Build cross platform desktop apps with JavaScript, HTML, and CSS
+  website_url: http://electron.atom.io/
+  version: 29.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-14 18:39:02.000000000 Z
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: Laurent
+  last_updated_on: 2020-12-28 11:48:47.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/package.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-11-05 16:58:23.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: React Native
+  description: A framework for building native apps with React
+  website_url: http://facebook.github.io/
+  version: 0.70.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 11:04:23.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 3.7.2
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/tools/package.json
+  detection_source: packages/tools/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2017-11-23 18:14:38.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-09-17 21:12:11.000000000 Z
+- name: reselect
+  description: Selector library for Redux
+  website_url: https://github.com/reactjs/reselect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/7757/13142323.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-desktop/package.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-14 18:39:02.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.3.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-30 19:03:49.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: Laurent
+  last_updated_on: 2020-12-28 11:48:47.000000000 Z
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/package.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-11-05 16:58:23.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.23.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 14.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/turndown-plugin-gfm/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 14:47:55.000000000 Z
+- name: CodeMirror
+  description: A versatile text editor implemented in JavaScript for the browser
+  website_url: http://codemirror.net/
+  version: 5.65.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/2490/E_fCaAi6.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-07 10:11:33.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/fork-htmlparser2/package.json
+  detection_source: packages/fork-htmlparser2/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 14:47:55.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/package.json
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-08-22 10:46:35.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/.github/workflows/build-android.yml
+  detection_source: ".github/workflows/build-android.yml"
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-01-08 11:53:46.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-mobile/android/app/build.gradle
+  detection_source: packages/app-mobile/android/app/build.gradle
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-06-10 16:02:58.000000000 Z
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.0.4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2019-07-29 10:55:39.000000000 Z
+- name: LiveReload
+  description: CSS edits and image changes apply live. CoffeeScript, SASS, LESS and
+    others just work.
+  website_url: http://livereload.com
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Live Reloading
+  image_url: https://img.stackshare.io/service/2601/128.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/package.json
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/fork-uslug/package.json
+  detection_source: packages/fork-uslug/package.json
+  last_updated_by: Laurent
+  last_updated_on: 2021-12-20 15:08:43.000000000 Z
+- name: PM2
+  description: Ease-to-use Node.js process manager, like forever
+  website_url: https://github.com/Unitech/pm2
+  version: 5.3.1
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Node.js Process Manager
+  image_url: https://img.stackshare.io/service/2237/757747.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: Laurent
+  last_updated_on: 2020-12-28 11:48:47.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/fork-htmlparser2/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-01 10:48:09.000000000 Z
+- name: Robolectric
+  description: An open-source testing framework for Android
+  website_url: http://robolectric.org/
+  version: '4.6'
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2022/OavapKft_400x400.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/react-native-alarm-notification/android/build.gradle
+  detection_source: packages/react-native-alarm-notification/android/build.gradle
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-01-20 17:33:19.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-mobile/package.json
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2017-05-06 14:37:28.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/package.json
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/fork-htmlparser2/.travis.yml
+  detection_source: packages/fork-htmlparser2/.travis.yml
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-11-05 16:58:23.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.42.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-11-05 16:58:23.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/yarn.lock
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: Yeoman
+  description: A set of tools for automating development workflow
+  website_url: http://yeoman.io/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Scaffolding Tools
+  image_url: https://img.stackshare.io/service/853/46ea2dd8b1bdd31a8ba61044cb5b6ebe.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/generator-joplin/package.json
+  detection_source: packages/generator-joplin/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-30 13:49:06.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: Assets/TinyMCE/IconPack/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 14:47:55.000000000 Z
+- name: highlight.js
+  description: Syntax highlighter in JavaScript
+  website_url: https://highlightjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-desktop/package.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-14 18:39:02.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 22.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-01 10:48:09.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-09 12:15:35.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/turndown/package.json
+  detection_source: packages/turndown/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-12-02 15:43:44.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/turndown-plugin-gfm/package.json
+  detection_source: packages/turndown-plugin-gfm/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 14:47:55.000000000 Z
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-mobile/package.json
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-08 20:46:32.000000000 Z
+- name: PDF.js
+  description: A general-purpose, web standards-based platform for parsing and rendering
+    PDFs
+  website_url: https://mozilla.github.io/pdf.js/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/8249/60c1d8501e4deb4a0f77f7f2fe145633_400x400.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-desktop/package.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2017-11-02 23:26:08.000000000 Z
+- name: Stream
+  description: Build scalable feeds, activity streams &amp; chat in a few hours instead
+    of months.
+  website_url: https://getstream.io/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Activity Feeds as a Service
+  image_url: https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-mobile/package.json
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-12 18:08:10.000000000 Z
+- name: Stripe
+  description: Payments for developers
+  website_url: https://stripe.com
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-08 16:58:06.000000000 Z
+- name: Tesseract.js
+  description: Pure JavaScript OCR for 60 Languages
+  website_url: http://tesseract.projectnaptha.com/
+  version: 5.0.4
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Analysis API
+  image_url: https://img.stackshare.io/service/5937/7720173.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-12-30 16:54:51.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-mobile/android/app/build.gradle
+  detection_source: packages/app-mobile/android/app/build.gradle
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-06-10 16:02:58.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  version: 1.11.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-mobile/Gemfile
+  detection_source: packages/app-mobile/Gemfile
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-06-10 16:02:58.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  version: 5.15.4
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 3.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-01-26 20:19:28.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.15
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-01-08 17:23:53.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-09 12:14:30.000000000 Z
+- name: Nodemailer
+  description: A module for Node.js applications to allow email sending
+  website_url: http://www.nodemailer.com/
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-09 12:15:35.000000000 Z
+- name: React Native Paper
+  description: Material Design for React Native (Android &amp; iOS)
+  website_url: https://callstack.github.io/react-native-paper/
+  version: 5.11.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Mobile
+  sub_category: Mobile UI Frameworks
+  image_url: https://img.stackshare.io/service/8731/17571969.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 11:04:23.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/naywintx/joplin
+  detection_source: Repo Metadata
+- name: TinyMCE
+  description: JavaScript library for rich text editing
+  website_url: https://www.tiny.cloud/
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/3655/eVcDQYNK_400x400.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/package.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/package.json
+  detection_source: package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-14 18:39:02.000000000 Z
+- name: katex
+  website_url: https://github.com/Khan/KaTeX
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6858/15455.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/renderer/package.json
+  detection_source: packages/renderer/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-10-23 00:20:13.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/package.json
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-02-26 17:29:11.000000000 Z
+- name: zxcvbn
+  website_url: https://github.com/dropbox/zxcvbn
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7797/559357.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-29 15:30:49.000000000 Z
+- name: formidable
+  description: A node.js module for parsing form data
+  package_url: https://www.npmjs.com/formidable
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16761/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-01-18 17:19:43.000000000 Z
+  vulnerabilities:
+  - name: Formidable arbitrary file upload
+    cve_id: CVE-2022-29622
+    cve_url: https://github.com/advisories/GHSA-8cp3-66vr-3r4c
+    detected_date: Apr 23
+    severity: critical
+    first_patched: 3.2.4
+- name: immer
+  description: Create your next immutable state by mutating the current one
+  package_url: https://www.npmjs.com/immer
+  version: 7.0.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in immer
+    cve_id: CVE-2021-23436
+    cve_url: https://github.com/advisories/GHSA-33f9-j839-rf8h
+    detected_date: Sep 3
+    severity: critical
+    first_patched: 9.0.6
+  - name: Prototype Pollution in immer
+    cve_id: CVE-2020-28477
+    cve_url: https://github.com/advisories/GHSA-9qmh-276g-x5pj
+    detected_date: Aug 22
+    severity: high
+    first_patched: 8.0.1
+  - name: Prototype Pollution in immer
+    cve_id: CVE-2021-3757
+    cve_url: https://github.com/advisories/GHSA-c36v-fmgq-m8hx
+    detected_date: Sep 8
+    severity: high
+    first_patched: 9.0.6
+- name: url-parse
+  description: Small footprint URL parser that works seamlessly across Node.js and
+    browser environments
+  package_url: https://www.npmjs.com/url-parse
+  version: 1.4.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16942/default_3772c3833c88109974c994fa9f9548ac8ad59f11.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-15 08:13:31.000000000 Z
+  vulnerabilities:
+  - name: Authorization Bypass Through User-Controlled Key in url-parse
+    cve_id: CVE-2022-0686
+    cve_url: https://github.com/advisories/GHSA-hgjh-723h-mx2j
+    detected_date: Feb 26
+    severity: critical
+    first_patched: 1.5.8
+  - name: Authorization bypass in url-parse
+    cve_id: CVE-2022-0512
+    cve_url: https://github.com/advisories/GHSA-rqff-837h-mm52
+    detected_date: Feb 18
+    severity: moderate
+    first_patched: 1.5.6
+  - name: Path traversal in url-parse
+    cve_id: CVE-2021-27515
+    cve_url: https://github.com/advisories/GHSA-9m6j-fcg5-2442
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.5.0
+  - name: url-parse incorrectly parses hostname / protocol due to unstripped leading
+      control characters.
+    cve_id: CVE-2022-0691
+    cve_url: https://github.com/advisories/GHSA-jf5r-8hm2-f872
+    detected_date: Mar 2
+    severity: moderate
+    first_patched: 1.5.9
+  - name: Open redirect in url-parse
+    cve_id: CVE-2021-3664
+    cve_url: https://github.com/advisories/GHSA-hh27-ffr2-f2jc
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.5.2
+  - name: url-parse Incorrectly parses URLs that include an '@'
+    cve_id: CVE-2022-0639
+    cve_url: https://github.com/advisories/GHSA-8v38-pw62-9cw2
+    detected_date: Feb 26
+    severity: moderate
+    first_patched: 1.5.7
+- name: follow-redirects
+  description: HTTP and HTTPS modules that follow redirects
+  package_url: https://www.npmjs.com/follow-redirects
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17687/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-03 19:25:21.000000000 Z
+  vulnerabilities:
+  - name: Exposure of sensitive information in follow-redirects
+    cve_id: CVE-2022-0155
+    cve_url: https://github.com/advisories/GHSA-74fj-2j2h-c42q
+    detected_date: Jan 18
+    severity: high
+    first_patched: 1.14.7
+  - name: follow-redirects' Proxy-Authorization header kept across hosts
+    cve_id: CVE-2024-28849
+    cve_url: https://github.com/advisories/GHSA-cxjh-pqwp-8mfp
+    detected_date: Mar 15
+    severity: moderate
+    first_patched: 1.15.6
+  - name: Follow Redirects improperly handles URLs in the url.parse() function
+    cve_id: CVE-2023-26159
+    cve_url: https://github.com/advisories/GHSA-jchw-25xp-jwwc
+    detected_date: Jan 9
+    severity: moderate
+    first_patched: 1.15.4
+  - name: Exposure of Sensitive Information to an Unauthorized Actor in follow-redirects
+    cve_id: CVE-2022-0536
+    cve_url: https://github.com/advisories/GHSA-pw2r-vq6v-hr8c
+    detected_date: Feb 12
+    severity: moderate
+    first_patched: 1.14.8
+- name: html-minifier
+  description: Highly configurable
+  package_url: https://www.npmjs.com/html-minifier
+  version: 3.5.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16552/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 11:04:23.000000000 Z
+  vulnerabilities:
+  - name: kangax html-minifier REDoS vulnerability
+    cve_id: CVE-2022-37620
+    cve_url: https://github.com/advisories/GHSA-pfq8-rq6v-vf5m
+    detected_date: Apr 23
+    severity: high
+    first_patched:
+- name: pdfjs-dist
+  description: Generic build of Mozilla's PDF.js library
+  package_url: https://www.npmjs.com/pdfjs-dist
+  version: 3.11.174
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18053/image.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-01-26 20:19:28.000000000 Z
+  vulnerabilities:
+  - name: PDF.js vulnerable to arbitrary JavaScript execution upon opening a malicious
+      PDF
+    cve_id: CVE-2024-4367
+    cve_url: https://github.com/advisories/GHSA-wgrm-67xf-hhpq
+    detected_date: May 8
+    severity: high
+    first_patched: 4.2.67
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 4.4.13
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/app-cli/tests/support/plugins/clipboard/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2021-06-20 11:03:18.000000000 Z
+  vulnerabilities:
+  - name: Arbitrary File Creation/Overwrite due to insufficient absolute path sanitization
+    cve_id: CVE-2021-32804
+    cve_url: https://github.com/advisories/GHSA-3jfq-g458-7qm9
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.4.14
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning
+    cve_id: CVE-2021-32803
+    cve_url: https://github.com/advisories/GHSA-r628-mhmh-qjhw
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.4.15
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning using symbolic links
+    cve_id: CVE-2021-37712
+    cve_url: https://github.com/advisories/GHSA-qq89-hq3f-393p
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.18
+  - name: Arbitrary File Creation/Overwrite on Windows via insufficient relative path
+      sanitization
+    cve_id: CVE-2021-37713
+    cve_url: https://github.com/advisories/GHSA-5955-9wpr-37jh
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.18
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning using symbolic links
+    cve_id: CVE-2021-37701
+    cve_url: https://github.com/advisories/GHSA-9r2w-394v-53qc
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.16
+  - name: Denial of service while parsing a tar file due to lack of folders count
+      validation
+    cve_id: CVE-2024-28863
+    cve_url: https://github.com/advisories/GHSA-f5x3-32g6-xq36
+    detected_date: Apr 10
+    severity: moderate
+    first_patched: 6.2.1
+- name: katex
+  description: Fast math typesetting for the web
+  package_url: https://www.npmjs.com/katex
+  version: 0.16.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18250/default_c6b51515d4a1dde78342d80e969e295cabf381ac.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/renderer/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-10-23 00:20:13.000000000 Z
+  vulnerabilities:
+  - name: KaTeX's maxExpand bypassed by `\edef`
+    cve_id: CVE-2024-28243
+    cve_url: https://github.com/advisories/GHSA-64fm-8hw2-v72w
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 0.16.10
+  - name: KaTeX's maxExpand bypassed by Unicode sub/superscripts
+    cve_id: CVE-2024-28244
+    cve_url: https://github.com/advisories/GHSA-cvr6-37gx-v8wc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 0.16.10
+  - name: KaTeX's `\includegraphics` does not escape filename
+    cve_id: CVE-2024-28245
+    cve_url: https://github.com/advisories/GHSA-f98w-7cxr-ff2h
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 0.16.10
+  - name: KaTeX missing normalization of the protocol in URLs allows bypassing forbidden
+      protocols
+    cve_id: CVE-2024-28246
+    cve_url: https://github.com/advisories/GHSA-3wc5-fcw2-2329
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 0.16.10
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.88.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/tools/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched:
+- name: word-wrap
+  description: Wrap words to a specified length
+  package_url: https://www.npmjs.com/word-wrap
+  version: 1.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18154/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-08-11 19:23:30.000000000 Z
+  vulnerabilities:
+  - name: word-wrap vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2023-26115
+    cve_url: https://github.com/advisories/GHSA-j8xg-fqg3-53r7
+    detected_date: Jun 28
+    severity: moderate
+    first_patched: 1.2.4
+- name: xml2js
+  description: Simple XML to JavaScript object converter
+  package_url: https://www.npmjs.com/xml2js
+  version: 0.4.23
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16122/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+  vulnerabilities:
+  - name: xml2js is vulnerable to prototype pollution
+    cve_id: CVE-2023-0842
+    cve_url: https://github.com/advisories/GHSA-776f-qx25-q3cc
+    detected_date: Apr 8
+    severity: moderate
+    first_patched: 0.5.0
+- name: yargs-parser
+  description: The mighty option parser used by yargs
+  package_url: https://www.npmjs.com/yargs-parser
+  version: 5.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17207/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-15 08:13:31.000000000 Z
+  vulnerabilities:
+  - name: yargs-parser Vulnerable to Prototype Pollution
+    cve_id: CVE-2020-7608
+    cve_url: https://github.com/advisories/GHSA-p9pc-299p-vxgp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 5.0.1
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.23.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.23.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.23.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.23.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-02-24 11:40:48.000000000 Z
+- name: "@fortawesome/fontawesome-free"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
+  version: 5.15.4
+  license: CC-BY-4.0,OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17170/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: "@fortawesome/fontawesome-svg-core"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-svg-core
+  version: 6.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/doc-builder/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-10-30 11:32:14.000000000 Z
+- name: "@fortawesome/free-brands-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-brands-svg-icons
+  version: 6.4.2
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18314/default_8c7316b1ad57adb78204233fc4608152c3b49ac6.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/doc-builder/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-10-30 11:32:14.000000000 Z
+- name: "@fortawesome/free-regular-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-regular-svg-icons
+  version: 6.4.2
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18157/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/doc-builder/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-10-30 11:32:14.000000000 Z
+- name: "@fortawesome/free-solid-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-solid-svg-icons
+  version: 6.1.2
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/doc-builder/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-10-30 11:32:14.000000000 Z
+- name: "@fortawesome/react-fontawesome"
+  description: Official React component for Font Awesome 5
+  package_url: https://www.npmjs.com/@fortawesome/react-fontawesome
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16936/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/doc-builder/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-10-30 11:32:14.000000000 Z
+- name: "@mdx-js/react"
+  description: React implementation for MDX
+  package_url: https://www.npmjs.com/@mdx-js/react
+  version: 1.6.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17624/default_61a119a7701a0e8224ca0e4dce7ff951cd67972f.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/doc-builder/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-10-30 11:32:14.000000000 Z
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 15.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/turndown/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2023-11-07 11:58:52.000000000 Z
+- name: "@testing-library/react-hooks"
+  description: Simple and complete React hooks testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react-hooks
+  version: 8.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17877/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-14 18:39:02.000000000 Z
+- name: "@types/fs-extra"
+  description: TypeScript definitions for fs-extra
+  package_url: https://www.npmjs.com/@types/fs-extra
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16170/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-01-08 11:53:28.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 27.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-07 02:35:16.000000000 Z
+- name: "@types/js-yaml"
+  description: TypeScript definitions for js-yaml
+  package_url: https://www.npmjs.com/@types/js-yaml
+  version: 4.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16757/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/lib/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 15:29:18.000000000 Z
+- name: "@types/jsdom"
+  description: TypeScript definitions for jsdom
+  package_url: https://www.npmjs.com/@types/jsdom
+  version: 21.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17003/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-01-26 20:19:28.000000000 Z
+- name: "@types/koa"
+  description: TypeScript definitions for Koa
+  package_url: https://www.npmjs.com/@types/koa
+  version: 2.13.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16749/default_c795226b47ffe4cb32fcfeee29dd5b030544258a.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-01-26 20:19:28.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 13.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-07 02:35:16.000000000 Z
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/tools/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-07 02:35:16.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 17.0.37
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-08 23:33:13.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/pdf-viewer/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-08 23:33:13.000000000 Z
+- name: "@types/react-native"
+  description: TypeScript definitions for react-native
+  package_url: https://www.npmjs.com/@types/react-native
+  version: 0.64.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16569/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 11:04:23.000000000 Z
+- name: "@types/react-redux"
+  description: TypeScript definitions for react-redux
+  package_url: https://www.npmjs.com/@types/react-redux
+  version: 7.1.33
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16687/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-08 23:33:13.000000000 Z
+- name: "@types/styled-components"
+  description: TypeScript definitions for styled-components
+  package_url: https://www.npmjs.com/@types/styled-components
+  version: 5.1.32
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-08 23:33:13.000000000 Z
+- name: "@types/uuid"
+  description: TypeScript definitions for uuid
+  package_url: https://www.npmjs.com/@types/uuid
+  version: 9.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/lib/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 15:29:18.000000000 Z
+- name: "@types/yargs"
+  description: TypeScript definitions for yargs
+  package_url: https://www.npmjs.com/@types/yargs
+  version: 17.0.32
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16404/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/default-plugins/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-12-17 15:07:31.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 6.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-02-26 17:29:11.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 6.8.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-02-26 17:29:11.000000000 Z
+- name: awesome-typescript-loader
+  description: Awesome TS loader for webpack
+  package_url: https://www.npmjs.com/awesome-typescript-loader
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16085/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: aws-sdk
+  description: AWS SDK for JavaScript
+  package_url: https://www.npmjs.com/aws-sdk
+  version: 2.1340.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-06-01 15:13:08.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-02-24 11:40:48.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 9.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: babel-plugin-module-resolver
+  description: Module resolver plugin for Babel
+  package_url: https://www.npmjs.com/babel-plugin-module-resolver
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16171/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-02-24 11:40:48.000000000 Z
+- name: base-64
+  description: A robust base64 encoder/decoder that is fully compatible with `atob
+  package_url: https://www.npmjs.com/base-64
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17750/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-08 20:45:36.000000000 Z
+- name: bcryptjs
+  description: Optimized bcrypt in plain JavaScript with zero dependencies
+  package_url: https://www.npmjs.com/bcryptjs
+  version: 2.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-27 04:02:32.000000000 Z
+- name: builtin-modules
+  description: List of the Node.js builtin modules
+  package_url: https://www.npmjs.com/builtin-modules
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18753/default_7e40392bb89e66abf2d9bb2cf29912f77369c119.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-07 07:51:00.000000000 Z
+- name: canvas
+  description: Canvas graphics API backed by Cairo
+  package_url: https://www.npmjs.com/canvas
+  version: 2.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16664/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/lib/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-12-13 19:24:58.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: chokidar
+  description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
+  package_url: https://www.npmjs.com/chokidar
+  version: 2.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-05 20:12:21.000000000 Z
+- name: color
+  description: Color conversion and manipulation with CSS string support
+  package_url: https://www.npmjs.com/color
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16600/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: compare-versions
+  description: Compare semver version strings to find greater
+  package_url: https://www.npmjs.com/compare-versions
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18084/image.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-21 15:51:26.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 6.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/clipboard/package-lock.json
+  detection_source: packages/app-cli/tests/support/plugins/clipboard/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2021-06-20 11:03:18.000000000 Z
+- name: crypto-browserify
+  description: Implementation of crypto for the browser
+  package_url: https://www.npmjs.com/crypto-browserify
+  version: 3.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18055/image.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2023-07-18 13:58:06.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-10-09 18:44:28.000000000 Z
+- name: debounce
+  description: Creates and returns a new debounced version of the passed function
+    that will postpone its execution until after wait milliseconds have elapsed since
+    the last time it was invoked
+  package_url: https://www.npmjs.com/debounce
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17140/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: electron-builder
+  description: A complete solution to package and build a ready for distribution Electron
+    app for MacOS
+  package_url: https://www.npmjs.com/electron-builder
+  version: 24.13.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17567/default_cce6af1cc5c037d170650dfd256f479915d5a8e4.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-14 18:39:02.000000000 Z
+- name: entities
+  description: Encode &amp; decode XML/HTML entities with ease
+  package_url: https://www.npmjs.com/entities
+  version: 2.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18082/image.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/fork-htmlparser2/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.28.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-02-26 17:29:11.000000000 Z
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 27.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-02-26 17:29:11.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 6.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-02-26 17:29:11.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.33.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-02-27 11:13:17.000000000 Z
+- name: events
+  description: Node's event emitter for all engines
+  package_url: https://www.npmjs.com/events
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16435/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: execa
+  description: Process execution for humans
+  package_url: https://www.npmjs.com/execa
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-10-30 11:32:14.000000000 Z
+- name: fast-deep-equal
+  description: Fast deep equal
+  package_url: https://www.npmjs.com/fast-deep-equal
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17360/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/lib/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: fast-xml-parser
+  description: Validate XML or Parse XML to JS/JSON very fast without C/C++ based
+    libraries
+  package_url: https://www.npmjs.com/fast-xml-parser
+  version: 4.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18585/default_8f927dfbacb5114543043eda4a41364f4f47ff2c.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-01 19:06:13.000000000 Z
+- name: form-data
+  description: A library to create readable "multipart/form-data" streams
+  package_url: https://www.npmjs.com/form-data
+  version: 2.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16415/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-11 14:19:34.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-01-08 11:53:28.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-10-15 17:51:37.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: grunt-shell
+  description: Run shell commands
+  package_url: https://www.npmjs.com/grunt-shell
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16396/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: grunt-tslint
+  description: Grunt plugin for TypeScript Linter
+  package_url: https://www.npmjs.com/grunt-tslint
+  version: 5.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17907/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: grunt-webpack
+  description: Use webpack with grunt
+  package_url: https://www.npmjs.com/grunt-webpack
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16985/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-11-05 16:58:23.000000000 Z
+- name: gulp-clean
+  description: A gulp plugin for removing files and folders
+  package_url: https://www.npmjs.com/gulp-clean
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16218/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: Assets/TinyMCE/IconPack/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 14:47:55.000000000 Z
+- name: html-entities
+  description: Faster HTML entities encode/decode library
+  package_url: https://www.npmjs.com/html-entities
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17291/default_116e98e237458e603feb81cfbf628c00544be692.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 5.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 14.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-11-05 17:50:00.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-14 18:39:02.000000000 Z
+- name: jest-environment-jsdom
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-environment-jsdom
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-09 12:14:30.000000000 Z
+- name: js-yaml
+  description: YAML 1.2 parser and serializer
+  package_url: https://www.npmjs.com/js-yaml
+  version: 3.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-28 11:37:12.000000000 Z
+- name: json-stringify-safe
+  description: Like JSON.stringify, but doesn't blow up on circular refs
+  package_url: https://www.npmjs.com/json-stringify-safe
+  version: 5.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16908/default_9d2cf1136959e6b2caecf3db7c29f90a2e3bb587.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/renderer/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: knex
+  description: A batteries-included SQL query &amp; schema builder for Postgres
+  package_url: https://www.npmjs.com/knex
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16491/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-01-18 15:13:48.000000000 Z
+- name: left-pad
+  description: String left pad
+  package_url: https://www.npmjs.com/left-pad
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17613/default_017d0f32a16a0d4571816fcd8b944e817a961fb6.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/content_script/package-lock.json
+  detection_source: packages/app-cli/tests/support/plugins/content_script/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 15.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-02-26 17:29:11.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: madge
+  description: Create graphs from module dependencies
+  package_url: https://www.npmjs.com/madge
+  version: 6.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18251/default_d7af0607656aecc036ca87d563e99619deb7cf84.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-07-14 09:06:55.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 13.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-01 19:06:13.000000000 Z
+- name: markdown-it-anchor
+  description: Header anchors for markdown-it
+  package_url: https://www.npmjs.com/markdown-it-anchor
+  version: 5.3.0
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17109/default_fbe883dfc6d978f82179fa11bdf634af1b6751fa.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/renderer/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-12-12 12:11:16.000000000 Z
+- name: md5
+  description: Js function for hashing messages with MD5
+  package_url: https://www.npmjs.com/md5
+  version: 2.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16342/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-11-05 16:58:23.000000000 Z
+- name: md5-file
+  description: Return an md5sum of a given file
+  package_url: https://www.npmjs.com/md5-file
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17487/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-13 10:44:53.000000000 Z
+- name: metro-react-native-babel-preset
+  description: Babel preset for React Native applications
+  package_url: https://www.npmjs.com/metro-react-native-babel-preset
+  version: 0.72.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16699/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 11:04:23.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-09 12:14:30.000000000 Z
+- name: multiparty
+  description: Multipart/form-data parser which supports streaming
+  package_url: https://www.npmjs.com/multiparty
+  version: 4.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17690/default_e87994647b10b361432e73d1831e5982307760e2.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-06 15:47:31.000000000 Z
+- name: nan
+  description: 'Native Abstractions for Node.js: C++ header for Node 0.8 -&gt; 11
+    compatibility'
+  package_url: https://www.npmjs.com/nan
+  version: 2.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16178/default_0d450fcd03a0343bb89c9b7c3a8cf092daa8c3b9.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2017-11-02 23:26:08.000000000 Z
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 3.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-26 11:49:55.000000000 Z
+- name: node-emoji
+  description: Simple emoji support for node.js projects
+  package_url: https://www.npmjs.com/node-emoji
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16476/default_2a878d5ab9753668ecaed6b6450bf9952a00bc9b.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/fork-uslug/package.json
+  last_updated_by: Laurent
+  last_updated_on: 2021-12-20 15:08:43.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-07 02:35:16.000000000 Z
+- name: node-gyp
+  description: Node.js native addon build tool
+  package_url: https://www.npmjs.com/node-gyp
+  version: 8.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16669/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-09 12:15:35.000000000 Z
+- name: node-mocks-http
+  description: Mock 'http' objects for testing Express routing functions
+  package_url: https://www.npmjs.com/node-mocks-http
+  version: 1.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17480/default_8c4651c288471a00b2fd6f2055b6de29cb9a049d.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-09 12:15:35.000000000 Z
+- name: node-notifier
+  description: A Node.js module for sending notifications on native Mac
+  package_url: https://www.npmjs.com/node-notifier
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16146/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-07 02:35:16.000000000 Z
+- name: node-rsa
+  description: Node.js RSA library
+  package_url: https://www.npmjs.com/node-rsa
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17814/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-07 02:35:16.000000000 Z
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  version: 8.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-03-03 01:06:42.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: Laurent
+  last_updated_on: 2020-12-28 11:48:47.000000000 Z
+- name: pretty-bytes
+  description: 'Convert bytes to a human readable string: 1337 → 1.34 kB'
+  package_url: https://www.npmjs.com/pretty-bytes
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16763/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-13 11:37:05.000000000 Z
+- name: promise
+  description: Bare bones Promises/A+ implementation
+  package_url: https://www.npmjs.com/promise
+  version: 7.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-12 23:38:17.000000000 Z
+- name: prompts
+  description: Lightweight, beautiful and user-friendly prompts
+  package_url: https://www.npmjs.com/prompts
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17250/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: Assets/TinyMCE/IconPack/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-04-09 16:49:56.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-08 23:33:13.000000000 Z
+- name: punycode
+  description: A robust Punycode converter that fully complies to RFC 3492 and RFC
+    5891
+  package_url: https://www.npmjs.com/punycode
+  version: 1.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18282/default_807e706fb4295a0b54623f7e1643199bb97a2590.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-18 09:11:32.000000000 Z
+- name: query-string
+  description: Parse and stringify URL query strings
+  package_url: https://www.npmjs.com/query-string
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16244/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-12-02 21:29:33.000000000 Z
+- name: raw-body
+  description: Get and validate the raw body of a readable stream
+  package_url: https://www.npmjs.com/raw-body
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17336/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/server/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-03-04 08:26:49.000000000 Z
+- name: react-datetime
+  description: A lightweight but complete datetime picker React.js component
+  package_url: https://www.npmjs.com/react-datetime
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18698/default_fc5b023c2170b00beeade822bdceeaf129047406.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-08 23:33:13.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: react-native
+  description: A framework for building native apps using React
+  package_url: https://www.npmjs.com/react-native
+  version: 0.70.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 11:04:23.000000000 Z
+- name: react-native-vector-icons
+  description: Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid
+  package_url: https://www.npmjs.com/react-native-vector-icons
+  version: 10.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17141/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 11:04:23.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 9.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: react-select
+  description: A Select control built with and for ReactJS
+  package_url: https://www.npmjs.com/react-select
+  version: 5.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16452/default_d634bba6819a28b85a138b7ded782cadbfa6a482.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-14 18:39:02.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-14 18:39:02.000000000 Z
+- name: react-tooltip
+  description: React tooltip component
+  package_url: https://www.npmjs.com/react-tooltip
+  version: 4.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17696/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-03-02 11:04:23.000000000 Z
+- name: read-chunk
+  description: Read a chunk from a file
+  package_url: https://www.npmjs.com/read-chunk
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18679/default_796854034d0fb722b81b1d885cb3ab88a613d5fb.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: server-destroy
+  description: Enable destroying a server
+  package_url: https://www.npmjs.com/server-destroy
+  version: 1.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17834/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: sharp
+  description: High performance Node.js image processing
+  package_url: https://www.npmjs.com/sharp
+  version: 0.33.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16806/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-03 19:25:44.000000000 Z
+- name: should
+  description: Test framework agnostic BDD-style assertions
+  package_url: https://www.npmjs.com/should
+  version: 13.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/fork-uslug/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 14:47:55.000000000 Z
+- name: slugify
+  description: Slugifies a String
+  package_url: https://www.npmjs.com/slugify
+  version: 1.6.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/generator-joplin/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-04-09 11:56:05.000000000 Z
+- name: source-map-loader
+  description: Extracts inlined source map and offers it to webpack
+  package_url: https://www.npmjs.com/source-map-loader
+  version: 0.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16190/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/plugin-repo-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-01-23 09:10:15.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/plugin-repo-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-01-23 09:10:15.000000000 Z
+- name: sprintf-js
+  description: JavaScript sprintf implementation
+  package_url: https://www.npmjs.com/sprintf-js
+  version: 1.0.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16880/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-10-01 19:32:55.000000000 Z
+- name: sqlite3
+  description: Asynchronous, non-blocking SQLite3 bindings
+  package_url: https://www.npmjs.com/sqlite3
+  version: 5.1.7
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16285/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2024-02-10 15:23:33.000000000 Z
+- name: standard
+  description: JavaScript Standard Style
+  package_url: https://www.npmjs.com/standard
+  version: 17.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/fork-sax/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-07-09 16:54:54.000000000 Z
+- name: string-to-stream
+  description: Convert a string into a stream
+  package_url: https://www.npmjs.com/string-to-stream
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18649/default_316ace623c991d98ee7b6a2ec75e30e84be87047.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-03-09 11:03:57.000000000 Z
+- name: strip-ansi
+  description: Strip ANSI escape codes from a string
+  package_url: https://www.npmjs.com/strip-ansi
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16331/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-14 05:40:32.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 3.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-clipper/popup/package-lock.json
+  detection_source: packages/app-clipper/popup/package.json
+  last_updated_by: Henry Heino
+  last_updated_on: 2024-01-06 12:15:10.000000000 Z
+- name: styled-system
+  description: Responsive
+  package_url: https://www.npmjs.com/styled-system
+  version: 5.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17321/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-30 19:03:49.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 16.3.10
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/fork-sax/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-11-05 16:58:23.000000000 Z
+- name: tar-stream
+  description: Tar-stream is a streaming tar parser and generator and nothing else
+  package_url: https://www.npmjs.com/tar-stream
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18168/default_77d2e8738857baa38b19bd635d4e8653809e03e4.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-12 18:08:10.000000000 Z
+- name: temp
+  description: Temporary files and directories
+  package_url: https://www.npmjs.com/temp
+  version: 0.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 14:47:55.000000000 Z
+- name: terminal-kit
+  description: 256 colors, keys and mouse, input field, progress bars, screen buffer
+  package_url: https://www.npmjs.com/terminal-kit
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18660/default_2bb8d8f1eaa4307e6423f44180eb3be1d861c4fb.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-cli/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-10-30 16:43:32.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-12-01 07:33:29.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 5.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/app-desktop/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-02-07 02:35:16.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.10.0
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: Assets/TinyMCE/JoplinLists/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-03-23 00:47:25.000000000 Z
+- name: turndown
+  description: A library that converts HTML to Markdown
+  package_url: https://www.npmjs.com/turndown
+  version: 7.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/turndown-plugin-gfm/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-04-01 16:46:25.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.17.8
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/generate-plugin-doc/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-08-10 09:40:44.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 3.8.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-11-08 16:58:56.000000000 Z
+- name: uglifycss
+  description: Port of YUI CSS Compressor to NodeJS
+  package_url: https://www.npmjs.com/uglifycss
+  version: 0.0.29
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17797/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/codemirror5-and-codemirror6/package-lock.json
+  detection_source: packages/lib/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2020-11-05 16:58:23.000000000 Z
+- name: url
+  description: The core `url` packaged standalone for use with Browserify
+  package_url: https://www.npmjs.com/url
+  version: 0.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/app-mobile/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2017-05-06 14:37:28.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/JoplinLists/yarn.lock
+  detection_source: packages/lib/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-29 15:30:26.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-cli/tests/support/plugins/clipboard/package-lock.json
+  detection_source: packages/app-cli/tests/support/plugins/clipboard/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2021-06-20 11:03:18.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/Assets/TinyMCE/IconPack/package-lock.json
+  detection_source: packages/app-cli/tests/support/plugins/clipboard/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 14:47:55.000000000 Z
+- name: yeoman-generator
+  description: Rails-inspired generator system that provides scaffolding for your
+    apps
+  package_url: https://www.npmjs.com/yeoman-generator
+  version: 5.10.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15971/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/generator-joplin/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-30 13:49:06.000000000 Z
+- name: yosay
+  description: Tell Yeoman what to say
+  package_url: https://www.npmjs.com/yosay
+  version: 2.0.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16124/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/yarn.lock
+  detection_source: packages/generator-joplin/package.json
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2022-11-05 13:09:41.000000000 Z
+- name: com.google.code.gson:gson
+  description: Gson JSON library
+  version: 2.8.8
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/react-native-alarm-notification/android/build.gradle
+  detection_source: packages/react-native-alarm-notification/android/build.gradle
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-01-20 17:33:19.000000000 Z
+  vulnerabilities:
+  - name: Deserialization of Untrusted Data in Gson
+    cve_id: CVE-2022-25647
+    cve_url: https://github.com/advisories/GHSA-4jrv-ppp4-jm57
+    detected_date: May 21
+    severity: high
+    first_patched: 2.8.9
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.13.2
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/react-native-alarm-notification/android/build.gradle
+  detection_source: packages/react-native-alarm-notification/android/build.gradle
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-01-20 17:33:19.000000000 Z
+- name: org.robolectric:robolectric
+  description: An alternative Android testing framework
+  version: '4.6'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/react-native-alarm-notification/android/build.gradle
+  detection_source: packages/react-native-alarm-notification/android/build.gradle
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-01-20 17:33:19.000000000 Z
+- name: cocoapods
+  description: CocoaPods manages library dependencies for your Xcode project
+  package_url: https://rubygems.org/cocoapods
+  version: 1.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
+  detection_source_url: https://github.com/naywintx/joplin/blob/dev/packages/app-mobile/Gemfile
+  detection_source: packages/app-mobile/Gemfile
+  last_updated_by: Laurent Cozic
+  last_updated_on: 2023-06-10 16:02:58.000000000 Z
